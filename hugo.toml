@@ -8,6 +8,11 @@ copyright = "© Royaire Photography"
   [caches.images]
     dir = ':cacheDir/images'
 
+[params]
+
+[params.socialIcons]
+  instagram = "https://instagram.com/royaire_photography"
+
 [params.imageProcessing]
-  cover.enabled=false
+  cover.enabled=true
   content.enabled=false
